@@ -12,7 +12,7 @@ public class MyController {
 
     @RequestMapping("hello")
     public String insert(){
-        System.out.println("访问成功   ");
+        System.out.println("访问成功");
         return "/WEB-INF/qmz.jsp";
     }
 
