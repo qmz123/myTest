@@ -8,6 +8,7 @@ public class Main {
     public static final String obj2 = "obj2";
 
     public static void main(String[] ars) {
+        System.out.println("乔明子");
         new DeadLockA().start();
         new DeadLockB().start();
     }
