@@ -31,6 +31,8 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.41720155">
               <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+            <state vertical-scroll-proportion="0.4892368">
+              <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -683,6 +685,12 @@
   </component>
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="10341000" />
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="10066000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
@@ -718,6 +726,7 @@
     <MESSAGE value="ccc" />
     <MESSAGE value="qm新分支" />
     <option name="LAST_COMMIT_MESSAGE" value="qm新分支" />
+    <option name="LAST_COMMIT_MESSAGE" value="ccc" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -797,6 +806,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.41720155">
           <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+        <state vertical-scroll-proportion="0.4892368">
+          <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
           <folding />
         </state>
       </provider>

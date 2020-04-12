@@ -9,6 +9,8 @@ public class Main {
 
     public static void main(String[] ars) {
         System.out.println("乔明子");
+
+        System.out.println("2332232322"); 
         new DeadLockA().start();
         new DeadLockB().start();
         System.out.println("xxxxx");
